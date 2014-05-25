@@ -15,6 +15,9 @@ gen*
 *.iws
 out
 
+#Vim
+*.swp
+
 #Maven
 target
 release.properties
