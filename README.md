@@ -14,13 +14,13 @@ Try out the sample application [on the Play Store](https://play.google.com/store
   1. Include the library as local library project or add the dependency in your build.gradle.
         
         dependencies {
-            compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
+            compile 'org.tuxdude:pagerslidingtabstrip:1.0.1.a'
         }
 
   2. Include the PagerSlidingTabStrip widget in your layout. This should usually be placed
      above the `ViewPager` it represents.
 
-        <com.astuetz.PagerSlidingTabStrip
+        <org.tuxdude.PagerSlidingTabStrip
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="48dip" />
