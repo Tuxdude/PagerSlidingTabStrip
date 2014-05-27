@@ -14,7 +14,7 @@ Try out the sample application [on the Play Store](https://play.google.com/store
   1. Include the library as local library project or add the dependency in your build.gradle.
         
         dependencies {
-            compile 'org.tuxdude:pagerslidingtabstrip:1.0.1.a'
+            compile 'org.tuxdude:pagerslidingtabstrip:1.0.1.b'
         }
 
   2. Include the PagerSlidingTabStrip widget in your layout. This should usually be placed
