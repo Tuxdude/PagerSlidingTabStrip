@@ -6,7 +6,7 @@
 
     <groupId>org.tuxdude</groupId>
     <artifactId>pagerslidingtabstrip-parent</artifactId>
-    <version>1.0.1.b</version>
+    <version>1.0.1.c</version>
     <packaging>pom</packaging>
 
     <modules>
