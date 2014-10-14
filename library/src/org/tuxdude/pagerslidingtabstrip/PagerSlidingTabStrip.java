@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tuxdude;
+package org.tuxdude.pagerslidingtabstrip;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
