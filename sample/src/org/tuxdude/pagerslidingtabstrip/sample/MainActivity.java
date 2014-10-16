@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.tuxdude.viewpager.extensions.sample;
+package org.tuxdude.pagerslidingtabstrip.sample;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;

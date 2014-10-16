@@ -1,4 +1,4 @@
-package org.tuxdude.viewpager.extensions.sample;
+package org.tuxdude.pagerslidingtabstrip.sample;
 
 import android.graphics.Point;
 import android.os.Build;
